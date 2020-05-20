@@ -15,6 +15,11 @@ public class demoTest {
 		}
 
 		@Test
+		public void delete() { 
+			System.out.println("Test delete");
+		}
+
+		@Test
 		public void search() {
 			System.out.println("Test priority2");
 		}

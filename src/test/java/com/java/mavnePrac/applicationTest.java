@@ -10,6 +10,18 @@ public class applicationTest {
 	}
 
 	@Test
+	public void Medicaldemart() {
+		System.out.println("medical store");
+		System.out.println("hello");
+	}
+	@Test
+	public void hospitaldemart() {
+		System.out.println("hospital store");
+		System.out.println("hello");
+	}
+
+
+	@Test
 	public void shoppingmore() {
 		System.out.println("more store");
 		System.out.println("shoppoing mall");
