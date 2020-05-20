@@ -6,11 +6,13 @@ public class applicationTest {
 	@Test
 	public void shoppingdemart() {
 		System.out.println("demart store");
+		System.out.println("hello");
 	}
 
 	@Test
 	public void shoppingmore() {
 		System.out.println("more store");
+		System.out.println("shoppoing mall");
 	}
 
 	@Test
