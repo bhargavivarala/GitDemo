@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+      <class name="com.java.mavnePrac.applicationTest">
+        <test-method status="PASS" signature="onlineamazon()[pri:0, instance:com.java.mavnePrac.applicationTest@8bd1b6a]" name="onlineamazon" duration-ms="7" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlineamazon -->
+        <test-method status="PASS" signature="onlineflipkart()[pri:0, instance:com.java.mavnePrac.applicationTest@8bd1b6a]" name="onlineflipkart" duration-ms="1" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlineflipkart -->
+        <test-method status="PASS" signature="shoppingbigbazar()[pri:0, instance:com.java.mavnePrac.applicationTest@8bd1b6a]" name="shoppingbigbazar" duration-ms="1" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingbigbazar -->
+        <test-method status="PASS" signature="shoppingdemart()[pri:0, instance:com.java.mavnePrac.applicationTest@8bd1b6a]" name="shoppingdemart" duration-ms="1" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingdemart -->
+        <test-method status="PASS" signature="shoppingmore()[pri:0, instance:com.java.mavnePrac.applicationTest@8bd1b6a]" name="shoppingmore" duration-ms="1" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingmore -->
+      </class> <!-- com.java.mavnePrac.applicationTest -->
+      <class name="com.java.mavnePrac.demoTest">
+        <test-method status="PASS" signature="Bookflight()[pri:0, instance:com.java.mavnePrac.demoTest@18be83e4]" name="Bookflight" duration-ms="1" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bookflight -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.java.mavnePrac.demoTest@18be83e4]" name="login" duration-ms="0" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="search()[pri:0, instance:com.java.mavnePrac.demoTest@18be83e4]" name="search" duration-ms="1" started-at="2020-03-31T12:03:29Z" finished-at="2020-03-31T12:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- com.java.mavnePrac.demoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

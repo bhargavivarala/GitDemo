@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="31" started-at="2020-03-31T17:37:09 IST" finished-at="2020-03-31T17:37:09 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="31" started-at="2020-03-31T17:37:09 IST" finished-at="2020-03-31T17:37:09 IST">
+      <class name="com.java.mavnePrac.applicationTest">
+        <test-method status="PASS" signature="onlineflipkart()[pri:0, instance:com.java.mavnePrac.applicationTest@3ffc5af1]" name="onlineflipkart" duration-ms="0" started-at="2020-03-31T17:37:09 IST" finished-at="2020-03-31T17:37:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlineflipkart -->
+        <test-method status="PASS" signature="shoppingdemart()[pri:0, instance:com.java.mavnePrac.applicationTest@3ffc5af1]" name="shoppingdemart" duration-ms="0" started-at="2020-03-31T17:37:09 IST" finished-at="2020-03-31T17:37:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingdemart -->
+        <test-method status="PASS" signature="shoppingmore()[pri:0, instance:com.java.mavnePrac.applicationTest@3ffc5af1]" name="shoppingmore" duration-ms="0" started-at="2020-03-31T17:37:09 IST" finished-at="2020-03-31T17:37:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingmore -->
+        <test-method status="PASS" signature="shoppingbigbazar()[pri:0, instance:com.java.mavnePrac.applicationTest@3ffc5af1]" name="shoppingbigbazar" duration-ms="0" started-at="2020-03-31T17:37:09 IST" finished-at="2020-03-31T17:37:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingbigbazar -->
+        <test-method status="PASS" signature="onlineamazon()[pri:0, instance:com.java.mavnePrac.applicationTest@3ffc5af1]" name="onlineamazon" duration-ms="0" started-at="2020-03-31T17:37:09 IST" finished-at="2020-03-31T17:37:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlineamazon -->
+      </class> <!-- com.java.mavnePrac.applicationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

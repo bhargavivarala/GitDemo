@@ -1,0 +1,4 @@
+# Created at 2020-03-31T16:50:12.651
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Bhargavi\mavnePrac\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
