@@ -18,6 +18,12 @@ public class applicationTest {
 	public void hospitaldemart() {
 		System.out.println("hospital store");
 		System.out.println("hello");
+	
+	}
+	@Test
+	public void Transport() {
+		System.out.println("transport store");
+		System.out.println("hello");
 	}
 
 
